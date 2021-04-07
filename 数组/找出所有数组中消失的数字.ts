@@ -1,5 +1,5 @@
 /* 
-  448：找到所有数组中消失的数组。在原数组中修改可是空间复杂度为1
+  448：找到所有数组中消失的数字。在原数组中修改可使空间复杂度为1
 */
 
 function findDisappearedNumbers(nums: number[]): number[] {
